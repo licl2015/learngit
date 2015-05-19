@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks change of files
 Git is a pig
 Git a new fread branch is quick a simple.
+this is a free software.
